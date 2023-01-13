@@ -1,0 +1,69 @@
+{
+  "name": "cpsproject",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-brands-svg-icons": "^6.2.0",
+    "@fortawesome/free-regular-svg-icons": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fortawesome/sharp-solid-svg-icons": "^6.2.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "bootstrap": "^5.2.3",
+    "file-loader": "^6.2.0",
+    "pure-react-carousel": "^1.30.1",
+    "react": "^18.2.0",
+    "react-axios": "^2.0.6",
+    "react-bootstrap": "^2.7.0",
+    "react-bootstrap-carousel": "^4.1.1",
+    "react-card-slider-component": "^1.0.9",
+    "react-dom": "^18.2.0",
+    "react-fetch-hook": "^1.9.5",
+    "react-grid": "^4.0.4",
+    "react-icons": "^4.4.0",
+    "react-multi-carousel": "^2.8.2",
+    "react-native-image-slider-banner": "^1.0.3",
+    "react-native-sticky-header-footer-scroll-view": "^2.1.3",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.4.0",
+    "react-scripts": "5.0.1",
+    "react-slick": "^0.29.0",
+    "react-slider-swiper": "^2.0.6",
+    "react-slideshow-image": "^4.0.5",
+    "react-svg-loader": "^3.0.3",
+    "react-swiper": "^0.1.5",
+    "react-switch": "^7.0.0",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.5",
+    "swiper": "^8.4.5",
+    "web-vitals": "^2.1.4",
+    "webfontloader": "^1.6.28"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
